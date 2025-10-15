@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkinterise_resume=globalThis.webpackChunkinterise_resume||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/interise-resume/blog","blogTitle":"Blog","authorsListPath":"/interise-resume/blog/authors"}')}}]);
