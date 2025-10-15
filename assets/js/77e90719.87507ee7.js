@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkinterise_resume=globalThis.webpackChunkinterise_resume||[]).push([[1966],{2373:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/interise-resume/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
