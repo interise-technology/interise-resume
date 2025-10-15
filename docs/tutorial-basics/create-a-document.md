@@ -44,7 +44,7 @@ It is also possible to create your sidebar explicitly in `sidebars.js`:
 ```js title="sidebars.js"
 export default {
   teamSidebar: [
-    'intro',
+    'resume-yunus-tuzun',
     // highlight-next-line
     'hello',
     {

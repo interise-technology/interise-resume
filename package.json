@@ -1,7 +1,7 @@
 {
-  "name": "resume-yunus-tuzun",
-  "version": "0.0.0",
-  "private": true,
+  "name": "interise-resume",
+  "version": "0.0.1",
+  "private": false,
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
